@@ -1,5 +1,8 @@
 # Project_Kayak
 
+lien github:
+https://github.com/Sheikoh/Project_Kayak.git
+
 ## Objective
 
 The objective of this project is to scrap booking and collect data from a weather API to load them on an S3 and a SQL database (ETL process) create graphs using the collected data to help inform decisions regarding holidays planning. 
